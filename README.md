@@ -35,7 +35,7 @@ Other versions of python, cuda and torch are also compatible.
 
 **Step 3.** Preparing the tracking results for compartion.
 
-The organized directory should look like:
+Download the tracking results (Baidu disk: https://pan.baidu.com/s/1LSvgMyL7TTKUApWwRQfWMg?pwd=gmn2 提取码: gmn2) to your project directory, the organized directory should look like:The organized directory should look like:
 
     ```
     --project_dir/tracking_results/
