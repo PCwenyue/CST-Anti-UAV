@@ -57,6 +57,7 @@ The evaluation plots will be saved at project_dir/reports/CSTAntiUAV/.
 ## Citation
 
 If you find this project useful in your research, please consider cite.
+```
 @InProceedings{Xie_2025_ICCV,
     author    = {Xie, Bin and Zhang, Congxuan and Wang, Fagan and Liu, Peng and Lu, Feng and Chen, Zhen and Hu, Weiming},
     title     = {CST Anti-UAV: A Thermal Infrared Benchmark for Tiny UAV Tracking in Complex Scenes},
@@ -65,3 +66,4 @@ If you find this project useful in your research, please consider cite.
     year      = {2025},
     pages     = {6157-6166}
 }
+```
