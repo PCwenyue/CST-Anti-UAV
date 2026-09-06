@@ -54,6 +54,18 @@ python Evaluation_for_ALL_Frame_SA.py
 
 The evaluation plots will be saved at project_dir/reports/CSTAntiUAV/.
 
+## License and Dataset Terms
+
+The source code and toolkit in this repository are released under the
+[MIT License](LICENSE).
+
+The CST Anti-UAV dataset is provided for academic and non-commercial
+research purposes. Academic modification and redistribution of the dataset
+are permitted subject to the applicable dataset terms.
+
+Please see [DATASET_TERMS.md](DATASET_TERMS.md) for details.
+
+
 ## Citation
 
 If you find this project useful in your research, please consider cite.
